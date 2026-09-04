@@ -1,0 +1,10 @@
+[project]
+name = "bad-apple-stock-chart"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "blessed>=1.49.0",
+    "opencv-python>=5.0.0.93",
+]
